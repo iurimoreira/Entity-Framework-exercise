@@ -1,0 +1,11 @@
+Olá professor
+
+Não consegui compactar o arquivo do projeto em um tamanho que fosse aceito no Moodle.
+
+Abaixo segue o link para o download do TP no meu Github:
+
+https://github.com/iurimoreira/Entity-Framework-exercise
+
+Abs
+
+Iuri Moreira
